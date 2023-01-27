@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aknoia
 - 👀 I’m interested in Desktop, Web and REST API development
-- 🌱 I’m currently learning Typescript, Flutter and ReactJS
+- 🌱 I’m currently learning Typescript, Flutter and ReactJS, but i do have 3 years of experience in Delphi IDE
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me:
 -   federicomusco1@gmail.com
